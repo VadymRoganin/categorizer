@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Star Wars",
+    "keywords": [
+      {
+        "word": "star war"
+      },
+      {
+        "word": "starwars"
+      },
+      {
+        "word": "starwar"
+      },
+      {
+        "word": "star war"
+      },
+      {
+        "word": "r2d2"
+      },
+      {
+        "word": "may the force be with you"
+      }
+    ]
+  },
+  {
+    "name": "Basketball",
+    "keywords": [
+      {
+        "word": "basketball"
+      },
+      {
+        "word": "nba"
+      },
+      {
+        "word": "ncaa"
+      },
+      {
+        "word": "lebron james"
+      },
+      {
+        "word": "john stokton"
+      },
+      {
+        "word": "antony davis"
+      }
+    ]
+  }
+]
